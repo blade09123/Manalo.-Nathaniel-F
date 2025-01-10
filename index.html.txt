@@ -8,7 +8,7 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
-            background-image: url('C:\Users\DANIEL\Desktop\Manalo.Nathaniel F\gaming.jpeg')
+            background-image: url('C:\Users\DANIEL\Desktop\Manalo. Nathaniel F\weblife.jpeg')
             background-size: cover;
             display: flex;
             flex-direction: column;
@@ -102,9 +102,9 @@
         <div class="text">
             <h2>More about me</h2>
             <p>
-                My name is Nathaniel F. Manalo, an 19-year-old proud resident of taft str. zone 6, from Santa Barbara, Province of Iloilo, Philippines. Currently pursuing a Computer Science degree at Iloilo Science and Technology University, I’m still learning more in this course that i took, especially in the modern world .and i was inspired by the influence of fellow gamers in town, I was driven to turn my childhood to the modern world. and experiencing gaming for the first time in my child was fun and interisting for me and exploring the internet and more.,.
+                My name is Nathaniel F. Manalo, an 19-year-old proud resident of taft str. zone 6, from Santa Barbara, Province of Iloilo, Philippines. Currently pursuing a Computer Science degree at Iloilo Science and Technology University, I’m still learning more in this course that i took, especially in the modern world .and i was inspired by the influence of fellow gamers in town, I was driven to turn my childhood to the modern world. and experiencing gaming for the first time in my child was fun and interisting for me and exploring the internet and I also loving going around when i was a child.
         </div>
-        <img src="C:\Users\DANIEL\Desktop\Manalo. Nathaniel F\1000009428.jpg" alt="nathaniel's image">
+        <img src="C:\Users\DANIEL\Desktop\Manalo.Nathaniel F\1000009428.jpg" alt="nathaniel's image">
     </div>
 
     <div class="contact-area">
