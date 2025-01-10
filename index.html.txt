@@ -1,0 +1,121 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Speed.com</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-image: url('C:\Users\DANIEL\Desktop\Manalo.Nathaniel F\gaming.jpeg')
+            background-size: cover;
+            display: flex;
+            flex-direction: column;
+            min-height: 100vh;
+        }
+
+        .header {
+            background-color: rgba(0, 86, 179, 0.9);
+            color: white;
+            padding: 10px 20px;
+            text-align: center;
+        }
+
+        .content {
+            flex: 1;
+            display: flex;
+            flex-direction: row;
+            justify-content: flex-start;
+            align-items: flex-start;
+            padding: 20px;
+            background-color: rgba(255, 255, 255, 0.8);
+            margin: 20px;
+            border-radius: 15px;
+        }
+
+        .content .text {
+            width: 60%;
+            margin-right: 20px;
+            text-align: left;
+            background-color: rgba(0, 86, 179, 0.8);
+            color: white;
+            padding: 15px;
+            border-radius: 15px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            display: flex;
+            flex-direction: column;
+            justify-content: flex-start;
+        }
+
+        .content img {
+            width: 300px;
+            height: 200px;
+            object-fit: cover;
+            align-self: flex-start;
+            margin-left: auto;
+            margin-right: auto;
+            border-radius: 10px;
+        }
+
+        .footer {
+            background-color: rgba(0, 86, 179, 0.9);
+            color: white;
+            text-align: center;
+            padding: 10px 20px;
+            margin-top: auto;
+        }
+
+        .contact-area {
+            text-align: center;
+            background-color: rgba(255, 255, 255, 0.9);
+            padding: 15px;
+            border-radius: 10px;
+            margin: 20px auto;
+            width: 90%;
+            max-width: 600px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        .contact-area p {
+            margin: 0;
+            font-size: 16px;
+            color: #0056b3;
+        }
+
+        .contact-area a {
+            color: #0056b3;
+            text-decoration: none;
+        }
+
+        .contact-area a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>Speed.com</h1>
+    </div>
+
+    <div class="content">
+        <div class="text">
+            <h2>More about me</h2>
+            <p>
+                My name is Nathaniel F. Manalo, an 19-year-old proud resident of taft str. zone 6, from Santa Barbara, Province of Iloilo, Philippines. Currently pursuing a Computer Science degree at Iloilo Science and Technology University, I’m still learning more in this course that i took, especially in the modern world .and i was inspired by the influence of fellow gamers in town, I was driven to turn my childhood to the modern world. and experiencing gaming for the first time in my child was fun and interisting for me and exploring the internet and more.,.
+        </div>
+        <img src="C:\Users\DANIEL\Desktop\Manalo. Nathaniel F\1000009428.jpg" alt="nathaniel's image">
+    </div>
+
+    <div class="contact-area">
+        <p>personal information</p>
+        <p>where you can message me:</p>
+        <p>Email: <a href="mailto:nathanielmanalo87@gmail.com">nathanielmanalo87@gmail</a></p>
+        <p>Facebook: <a href="https://www.facebook.com/nathaniel.manalo" target="_blank">https://www.facebook.com/nathaniel.manalo</a></p>
+    </div>
+
+    <div class="footer">
+        © 2024 Speed.com | All Rights Reserved
+    </div>
+</body>
+</html>
